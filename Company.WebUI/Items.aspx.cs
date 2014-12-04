@@ -11,7 +11,7 @@ namespace Company.WebUI
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            Response.Write("Release 1");
+            Response.Write("Release 2");
         }
     }
 }
